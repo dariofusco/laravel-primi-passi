@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hello World</h1>
-    <h2>Benvenuto {{ $name }} {{ $surname }}</h2>
+    <a href="/login">Login</a>
 </body>
 </html>
